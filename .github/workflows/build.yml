@@ -20,3 +20,32 @@ jobs:
       with:
         name: app-debug
         path: app/build/outputs/apk/debug/app-debug.apk
+name: Build APK
+on: [push, workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: set up JDK 17
+      uses: actions/setup-java@v4
+      with:
+        java-version: '17'
+        distribution: 'temurin'
+        
+    # این بخش جدید: سرور گیت‌هاب خودش فایل رو دانلود میکنه
+    - name: Download Swiss Ephemeris JAR
+      run: |
+        mkdir -p app/libs
+        curl -L -o app/libs/swisseph.jar "https://github.com/astronexus/swisseph/raw/master/swisseph.jar"
+        
+    - name: Setup Gradle
+      uses: gradle/actions/setup-gradle@v3
+    - name: Build with Gradle
+      run: gradle assembleDebug
+    - name: Upload APK
+      uses: actions/upload-artifact@v4
+      with:
+        name: app-debug
+        path: app/build/outputs/apk/debug/app-debug.apk
