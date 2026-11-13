@@ -1,0 +1,9 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp" android:height="32dp"
+    android:viewportWidth="32" android:viewportHeight="32"
+    android:tint="@color/golden_primary">
+    <!-- Alerts icon: bell -->
+    <path android:strokeColor="#FFD700" android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M16,4 C12,4 9,7 9,11 L9,18 L7,22 L25,22 L23,18 L23,11 C23,7 20,4 16,4 Z M13,25 C14,27 18,27 19,25" />
+</vector>

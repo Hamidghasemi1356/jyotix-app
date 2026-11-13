@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Jyotix Color Palette -->
+    <color name="navy_background">#FF0A1929</color>
+    <color name="navy_panel">#FF102842</color>
+    <color name="navy_panel_alt">#FF143557</color>
+    <color name="golden_primary">#FFE5B14B</color>
+    <color name="golden_bright">#FFF6C75C</color>
+    <color name="golden_dark">#FFB8860B</color>
+    <color name="off_white">#FFEDEDED</color>
+    <color name="light_gray">#FFD3D3D3</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="text_secondary">#FFA0A8B8</color>
+    <color name="retrograde">#FFB33A3A</color>
+    <color name="success">#FF4CAF50</color>
+    <color name="error">#FFD32F2F</color>
+    <color name="scorpio_active">#FFD24B39</color>
+</resources>

@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp" android:height="32dp"
+    android:viewportWidth="32" android:viewportHeight="32"
+    android:tint="@color/golden_primary">
+    <!-- Transit icon: circular arrows -->
+    <path android:strokeColor="#FFD700" android:strokeWidth="2"
+        android:fillColor="#00000000"
+        android:pathData="M27,16 A11,11 0 1,1 16,5 L16,8 L12,4 L16,0 L16,3 A13,13 0 1,0 29,16 Z" />
+    <path android:fillColor="#FFD700"
+        android:pathData="M16,16 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+</vector>

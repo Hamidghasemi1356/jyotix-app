@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp" android:height="32dp"
+    android:viewportWidth="32" android:viewportHeight="32"
+    android:tint="@color/golden_primary">
+    <!-- Natal chart icon: diamond with central dot -->
+    <path android:strokeColor="#FF000000" android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M16,3 L29,16 L16,29 L3,16 Z M16,3 L3,16 M16,3 L29,16 M3,16 L16,29 M29,16 L16,29" />
+    <path android:fillColor="#FFD700"
+        android:pathData="M16,16 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+</vector>

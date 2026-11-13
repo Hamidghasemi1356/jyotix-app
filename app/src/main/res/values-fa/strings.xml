@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application -->
+    <string name="app_name">Jyotix</string>
+    <string name="welcome">به جیوتیکس خوش آمدید</string>
+    <string name="login">ورود</string>
+    <string name="register">ثبت‌نام</string>
+    <string name="logout">خروج</string>
+
+    <!-- Dashboard modules -->
+    <string name="module_natal">بررسی چارت ناتال</string>
+    <string name="module_transit">ترانزیت روزانه</string>
+    <string name="module_moon_scorpio">قمر در عقرب</string>
+    <string name="module_sky_map">نقشه آسمان</string>
+    <string name="module_education">آموزش نجوم و جیوتیش</string>
+    <string name="module_alerts">هشدارهای نجومی</string>
+
+    <!-- Auth -->
+    <string name="phone_number">شماره تلفن همراه</string>
+    <string name="verification_code">کد تأیید</string>
+    <string name="send_code">ارسال کد</string>
+    <string name="verify">تأیید</string>
+    <string name="enter_phone_prompt">شماره تلفن همراه خود را وارد کنید تا کد تأیید از طریق پیامک برای شما ارسال شود.</string>
+    <string name="enter_code_prompt">کد ۶ رقمی ارسال شده به %1$s را وارد کنید</string>
+
+    <!-- Natal Chart -->
+    <string name="birth_day">روز تولد</string>
+    <string name="birth_month">ماه تولد</string>
+    <string name="birth_year">سال تولد</string>
+    <string name="birth_city">شهر تولد</string>
+    <string name="birth_time">ساعت تولد</string>
+    <string name="calculate_chart">محاسبه چارت</string>
+    <string name="search_city">جستجوی شهر…</string>
+    <string name="select_date">انتخاب تاریخ</string>
+    <string name="select_time">انتخاب ساعت</string>
+    <string name="chart_d1">D1 / راشی</string>
+    <string name="chart_d9">D9 / ناوامشا</string>
+    <string name="chart_d10">D10 / داشامشا</string>
+    <string name="select_varga">انتخاب وارگا</string>
+    <string name="mahadasha">ماهاداشا</string>
+    <string name="antardasha">آنترداشا</string>
+    <string name="pratyantardasha">پراتیانتارداشا</string>
+
+    <!-- Dropdown menus -->
+    <string name="chara_karakas">چارا کاراکاها</string>
+    <string name="panchanga">پنچانگا</string>
+    <string name="graha_drishti">درشتی گراه‌ها</string>
+    <string name="rashi_drishti">درشتی راشی</string>
+    <string name="nakshatra_table">جدول نکشترا</string>
+    <string name="pada_info">اطلاعات پادا</string>
+    <string name="planetary_degrees">درجات سیارات</string>
+    <string name="planetary_nakshatra">موقعیت نکشترایی سیارات</string>
+
+    <!-- Common -->
+    <string name="cancel">انصراف</string>
+    <string name="ok">تأیید</string>
+    <string name="save">ذخیره</string>
+    <string name="delete">حذف</string>
+    <string name="loading">در حال بارگذاری…</string>
+    <string name="error">خطا</string>
+    <string name="retry">تلاش مجدد</string>
+
+    <!-- Education -->
+    <string name="edu_intro_jyotish">مقدمه‌ای بر جیوتیش</string>
+    <string name="edu_zodiac_signs">برج‌ها</string>
+    <string name="edu_planets">سیارات</string>
+    <string name="edu_houses">خانه‌ها</string>
+    <string name="edu_nakshatras">نکشتراها</string>
+    <string name="edu_vargas">وارگاها</string>
+    <string name="edu_dashas">داشاها</string>
+    <string name="edu_panchanga">پنچانگا</string>
+    <string name="edu_aspects">درشتی</string>
+    <string name="edu_transit">تحلیل ترانزیت</string>
+
+    <!-- Sky Map -->
+    <string name="sky_zoom_in">بزرگنمایی</string>
+    <string name="sky_zoom_out">کوچکنمایی</string>
+    <string name="sky_reset">بازنشانی</string>
+
+    <!-- Alerts -->
+    <string name="alert_sign_change">تغییر برج سیارات</string>
+    <string name="alert_retrograde">رجعت و پایان رجعت</string>
+    <string name="alert_conjunction">مقارنه‌های مهم</string>
+    <string name="alert_eclipse">خسوف و کسوف</string>
+    <string name="alert_moon_scorpio">قمر در عقرب</string>
+    <string name="alert_transits">ترانزیت‌های مهم</string>
+</resources>

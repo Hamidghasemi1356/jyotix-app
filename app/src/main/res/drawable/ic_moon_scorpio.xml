@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp" android:height="32dp"
+    android:viewportWidth="32" android:viewportHeight="32"
+    android:tint="@color/golden_primary">
+    <!-- Moon in Scorpio: crescent + scorpion tail -->
+    <path android:fillColor="#FFD700"
+        android:pathData="M22,8 a10,10 0 1,0 0,16 a8,8 0 1,1 0,-16 Z" />
+    <path android:strokeColor="#FFD700" android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M8,20 C5,22 5,26 8,28 C10,29 13,28 13,25" />
+    <path android:fillColor="#FFD700"
+        android:pathData="M13,25 l-1,-2 l2,0 z" />
+</vector>

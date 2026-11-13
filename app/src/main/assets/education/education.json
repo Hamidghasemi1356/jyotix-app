@@ -1,0 +1,82 @@
+[
+  {
+    "category": "intro_jyotish",
+    "title_fa": "مقدمه‌ای بر جیوتیش",
+    "title_en": "Introduction to Jyotish",
+    "body_fa": "جیوتیش (Jyotish) به معنای «علم نور» است و یکی از شش ودانگا (شاخه‌های ودا) محسوب می‌شود. این دانش باستانی هندی بر اساس مشاهده مستقیم آسمان و حرکت سیارات توسعه یافته است.\n\nاصول بنیادین جیوتیش بر سه ستون استوار است:\n۱._SIDEREAL ZODIAC (برج‌های恒星): برخلاف نجوم غربی که از برج‌های استوایی استفاده می‌کند، جیوتیش با برج‌های واقعی ستارگان کار می‌کند. اَینامسا (Ayanamsa) فاصله بین این دو سیستم است.\n۲. NAKSHATRAS: ۲۷ منطقه ستاره‌ای که مسیر ماه در آسمان را تقسیم می‌کنند.\n۳. DASHAS: سیستم‌های دوره‌های سیاره‌ای که زمان وقوع رویدادها را پیش‌بینی می‌کنند.\n\nنرم‌افزار Jyotix با استفاده از Swiss Ephemeris، محاسبات دقیق نجومی را انجام داده و چارت تولد واقعی را بر اساس این اصول ارائه می‌دهد.",
+    "body_en": "Jyotish means \"science of light\" and is one of the six Vedangas (limbs of the Veda). It developed from direct observation of the sky and planetary motion.\n\nThe three pillars of Jyotish are: 1) The Sidereal Zodiac (real star-based signs, with Ayanamsa offset from the tropical zodiac); 2) The 27 Nakshatras (lunar mansions); 3) Dasha systems (planetary periods for timing events).\n\nJyotix uses the Swiss Ephemeris to compute accurate sidereal positions.",
+    "order_index": 0
+  },
+  {
+    "category": "zodiac",
+    "title_fa": "برج‌های آسمانی در جیوتیش",
+    "title_en": "The Zodiac Signs",
+    "body_fa": "در جیوتیش، دایره البروج به ۱۲ برج ۳۰ درجه‌ای تقسیم می‌شود. هر برج دارای یک کاکتراکتر (سوپرمر) و عنصر (آتش، خاک، هوا، آب) و حالت (Cardinal, Fixed, Mutable) است.\n\nبرج‌ها به ترتیب از حمل: حمل، ثور، جوزا، سرطان، اسد، سنبله، میزان، عقرب، قوس، جدی، دلو، حوت.\n\nبرخلاف نجوم غربی، در جیوتیش برج‌ها با جایگاه واقعی ستارگان (sidereal) تعیین می‌شوند. به عنوان مثال، خورشید در ۱۵ فروردین در برج حوت است (نه حمل)، زیرا star-based zodiac ~۲۴ درجه جلوتر از tropical است.",
+    "body_en": "Jyotish divides the zodiac into 12 signs of 30° each. Each sign has a symbol, element (Fire/Earth/Air/Water), and modality (Cardinal/Fixed/Mutable). Signs are computed in the sidereal frame, ~24° offset from tropical signs.",
+    "order_index": 1
+  },
+  {
+    "category": "planets",
+    "title_fa": "گره‌ها (سیارات) در جیوتیش",
+    "title_en": "The Grahas (Planets)",
+    "body_fa": "جیوتیش از ۹ گراها (Grahas) یا «گیرنده‌ها» استفاده می‌کند:\n\n۱. خورشید (Surya) — روح، اگو، پدر.\n۲. ماه (Chandra) — ذهن، احساسات، مادر.\n۳. مریخ (Mangala) — انرژی، شجاعت، جنگ.\n۴. عطارد (Budha) — هوش، ارتباط، تجارت.\n۵. مشتری (Guru) — خرد، فراوانی، معنویت.\n۶. زهره (Shukra) — عشق، زیبایی، هنر.\n۷. کیوان (Shani) — انضباط، سختی، کارما.\n۸. رآهو — شمال گره ماه، شهوت، توهم.\n۹. کیتو — جنوب گره ماه، معنویت، رهایی.\n\nخورشید و ماه هرگز retrograde نمی‌شوند. مریخ، عطارد، مشتری، زهره، کیوان، رآهو و کیتو می‌توانند retrograde باشند.",
+    "body_en": "Jyotish uses 9 Grahas: Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu (north node), and Ketu (south node). Sun and Moon never retrograde; the others can.",
+    "order_index": 2
+  },
+  {
+    "category": "houses",
+    "title_fa": "خانه‌های چارت (Bhavas)",
+    "title_en": "The Houses (Bhavas)",
+    "body_fa": "چارت تولد به ۱۲ خانه تقسیم می‌شود. خانه ۱ از Ascendant (Lagna) شروع می‌شود. هر خانه یک حوزه از زندگی را کنترل می‌کند:\n\nخانه ۱: خود، بدن، ظاهر.\nخانه ۲: ثروت، خانواده، گفتار.\nخانه ۳: خواهر/برادر، شجاعت، تلاش.\nخانه ۴: مادر، خانه، اموال، تحصیلات پایه.\nخانه ۵: فرزندان، خلاقیت، عشق، دانش.\nخانه ۶: بیماری، دشمنان، بدهی.\nخانه ۷: ازدواج، شراکت، تجارت.\nخانه ۸: طول عمر، تحول، ارث.\nخانه ۹: پدر، دین، سفرهای طولانی، معلم.\nخانه ۱۰: شغل، شهرت، حرفه.\nخانه ۱۱: درآمد، آرزوها، دوستان.\nخانه ۱۲: خسارت، رهایی، سفرهای دور، خواب.",
+    "body_en": "The chart has 12 houses, each governing a life area: 1st (self/body), 2nd (wealth), 3rd (siblings), 4th (mother/home), 5th (children), 6th (disease/debts), 7th (marriage), 8th (longevity), 9th (father/dharma), 10th (career), 11th (gains), 12th (loss/liberation).",
+    "order_index": 3
+  },
+  {
+    "category": "nakshatras",
+    "title_fa": "نکشتراها (Nakshatras)",
+    "title_en": "The Nakshatras",
+    "body_fa": "۲۷ نکشترا (Nakshatra) یا «ایستگاه‌های ماه» هر کدام ۱۳°۲۰′ از دایره البروج را پوشش می‌دهند.\n\nهر نکشترا به ۴ پادا (Pada) تقسیم می‌شود، هر پادا ۳°۲۰′.\n\nماه حدود ۲۷.۳ روز یک بار دایره البروج را می‌پیماید و در هر روز در یک نکشترا متفاوت قرار می‌گیرد.\n\nنکشترای ماه در زمان تولد، پایه سیستم Dashas است. مثلاً اگر ماه در Ashvini باشد، اولین Mahadasha متعلق به Ketu است.",
+    "body_en": "The 27 Nakshatras are lunar mansions of 13°20′ each, divided into 4 Padas of 3°20′. The Moon's Nakshatra at birth determines the starting Mahadasha in the Vimshottari system.",
+    "order_index": 4
+  },
+  {
+    "category": "vargas",
+    "title_fa": "وارگاها (Divisional Charts)",
+    "title_en": "The Vargas",
+    "body_fa": "وارگاها یا چارت‌های تقسیمی، تقسیم هر برج به بخش‌های کوچکتر برای تحلیل دقیق تر حوزه‌های خاص زندگی هستند.\n\nمهم‌ترین وارگاها:\nD1 (Rashi) — بدن فیزیکی، زندگی عمومی.\nD9 (Navamsa) — ازدواج، دارما، روح.\nD10 (Dashamsa) — شغل و حرفه.\nD7 (Saptamsa) — فرزندان.\nD12 (Dvadashamsa) — والدین.\nD60 (Shashtiamsa) — کارمای گذشته.\n\nدر Jyotix، همه ۱۶ وارگای اصلی (D1, D2, D3, D4, D7, D9, D10, D12, D16, D20, D24, D27, D30, D40, D45, D60) قابل محاسبه هستند.",
+    "body_en": "Vargas are divisional charts. Important ones: D1 (physical body), D9 (marriage/dharma), D10 (career), D7 (children), D12 (parents), D60 (past karma). Jyotix computes all 16 main vargas.",
+    "order_index": 5
+  },
+  {
+    "category": "dashas",
+    "title_fa": "سیستم Dashas",
+    "title_en": "The Dasha System",
+    "body_fa": "Dashas دوره‌های سیاره‌ای هستند که زمان وقوع رویدادها را در زندگی فرد پیش‌بینی می‌کنند.\n\nVimshottari Dasha (پرکاربردترین) یک چرخه ۱۲۰ ساله است که به ۹ دوره اصلی (Mahadasha) تقسیم می‌شود:\n\nKetu (۷ سال) → Venus (۲۰ سال) → Sun (۶ سال) → Moon (۱۰ سال) → Mars (۷ سال) → Rahu (۱۸ سال) → Jupiter (۱۶ سال) → Saturn (۱۹ سال) → Mercury (۱۷ سال).\n\nهر Mahadasha به ۹ Antardasha و هر Antardasha به ۹ Pratyantardasha تقسیم می‌شود.\n\nنقطه شروع چرخه بر اساس نکشترای ماه در زمان تولد تعیین می‌شود.",
+    "body_en": "Vimshottari Dasha is a 120-year cycle divided into 9 Mahadashas (Ketu 7y, Venus 20y, Sun 6y, Moon 10y, Mars 7y, Rahu 18y, Jupiter 16y, Saturn 19y, Mercury 17y). The starting point is determined by the Moon's Nakshatra at birth.",
+    "order_index": 6
+  },
+  {
+    "category": "panchanga",
+    "title_fa": "پنچانگا (Panchanga)",
+    "title_en": "Panchanga",
+    "body_fa": "پنچانگا به معنای «پنج عضو» است و به پنج عنصر تقویم ودیک اشاره دارد:\n\n۱. Tithi — روز قمری (۳۰ تیتی در هر ماه قمری).\n۲. Vaara — روز هفته.\n۳. Nakshatra — نکشترای ماه در آن روز.\n۴. Yoga — ترکیب طول خورشید و ماه.\n۵. Karana — نصف Tithi.\n\nپنچانگا برای تعیین زمان‌های مساعد (Muhurta) برای رویدادهای مهم مانند ازدواج، سفر، شروع کسب‌وکار استفاده می‌شود.",
+    "body_en": "Panchanga consists of 5 elements: Tithi (lunar day), Vaara (weekday), Nakshatra, Yoga, and Karana. Used to determine auspicious timing (Muhurta) for important events.",
+    "order_index": 7
+  },
+  {
+    "category": "aspects",
+    "title_fa": "درشتی (Aspects)",
+    "title_en": "Aspects (Drishti)",
+    "body_fa": "Drishti یا «نگاه» سیارات، تأثیر سیاره از یک خانه به خانه‌های دیگر است.\n\nGraha Drishti (نگاه سیارات):\n- همه سیارات به خانه ۷ (روبرو) نگاه می‌کنند.\n- مریخ به خانه‌های ۴، ۷، ۸.\n- مشتری به ۵، ۷، ۹.\n- کیوان به ۳، ۷، ۱۰.\n\nRashi Drishti (نگاه برج‌ها):\n- برج‌های movable به fixed (غیر مجاور).\n- برج‌های fixed به movable (غیر مجاور).\n- برج‌های dual به سایر dualها.",
+    "body_en": "Drishti is planetary aspect. All planets aspect the 7th house; Mars also aspects 4 & 8; Jupiter 5 & 9; Saturn 3 & 10. Rashi Drishti: movable signs aspect fixed, fixed aspect movable, dual aspect dual.",
+    "order_index": 8
+  },
+  {
+    "category": "transit",
+    "title_fa": "تحلیل ترانزیت (Gochara)",
+    "title_en": "Transit Analysis (Gochara)",
+    "body_fa": "ترانزیت (Gochara) بررسی موقعیت فعلی سیارات نسبت به چارت تولد است.\n\nسیارات کند (مشتری، کیوان) ترانزیت‌های طولانی و تأثیرگذار دارند. سیارات سریع (ماه، عطارد، زهره) تأثیر کوتاه‌مدت ایجاد می‌کنند.\n\nمهم‌ترین ترانزیت‌ها:\n- ترانزیت کیوان (Sade Sati) روی نکشترای ماه تولد، دوره ۷.۵ ساله.\n- ترانزیت مشتری از خانه ۱، ۲، ۴، ۵، ۷، ۹، ۱۰، ۱۱ معمولاً مساعد است.\n- ترانزیت رآهو و کیتو از خانه‌های مهم، نقاط تحول ایجاد می‌کنند.\n\nJyotix به‌صورت روزانه موقعیت سیارات را محاسبه و با چارت تولد شما مقایسه می‌کند.",
+    "body_en": "Transits (Gochara) compare current planetary positions to the natal chart. Saturn's Sade Sati (7.5 years over the Moon's natal Nakshatra) is famous. Jyotix computes daily transits and compares them to your saved natal chart.",
+    "order_index": 9
+  }
+]

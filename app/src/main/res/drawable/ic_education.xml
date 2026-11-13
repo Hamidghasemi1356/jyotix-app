@@ -1,0 +1,9 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp" android:height="32dp"
+    android:viewportWidth="32" android:viewportHeight="32"
+    android:tint="@color/golden_primary">
+    <!-- Education icon: open book -->
+    <path android:strokeColor="#FFD700" android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M16,8 L16,26 M4,8 L16,8 L28,8 L28,26 L16,26 L4,26 Z M4,8 C8,10 12,10 16,8 M28,8 C24,10 20,10 16,8" />
+</vector>

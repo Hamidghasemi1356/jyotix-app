@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_background">#FF000814</color>
+    <color name="navy_panel">#FF081830</color>
+    <color name="navy_panel_alt">#FF0E2342</color>
+    <color name="golden_primary">#FFF1B95C</color>
+    <color name="golden_bright">#FFFFD166</color>
+    <color name="golden_dark">#FFB8860B</color>
+    <color name="off_white">#FFEDEDED</color>
+    <color name="light_gray">#FFBDBDBD</color>
+</resources>
